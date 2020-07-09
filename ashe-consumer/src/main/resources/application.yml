@@ -1,0 +1,8 @@
+server:
+  port: 8081
+config:
+  server:
+    zk: 127.0.0.1:2181
+    project: /ashe/consumer
+    version: 1.0
+    group: dev

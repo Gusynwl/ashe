@@ -1,0 +1,14 @@
+server:
+  port: 8080
+thread:
+  pool:
+    corePoolSize: 50
+    maxPoolSize: 500
+    keepAliveSeconds: 10000
+    queueCapacity: 1000
+config:
+  server:
+    zk: 127.0.0.1:2181
+    project: /ashe/provider
+    version: 1.0
+    group: dev
