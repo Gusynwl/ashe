@@ -23,5 +23,7 @@
         <module>ashe-api</module>
         <module>ashe-provider</module>
         <module>ashe-consumer</module>
+        <module>ashe-common</module>
+        <module>ashe-provider1</module>
     </modules>
 </project>

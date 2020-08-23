@@ -1,0 +1,2 @@
+dubboConsumerFilter=com.hpl.ashe.filter.DubboConsumerFilter
+dubboProviderFilter=com.hpl.ashe.filter.DubboProviderFilter

@@ -1,5 +1,5 @@
 server:
-  port: 8081
+  port: 8082
 config:
   server:
     zk: 127.0.0.1:2181
